@@ -22,5 +22,4 @@ sklearn.feature_extraction.text.CountVectorizer
 * sklearn归一化API:  sklearn.preprocessing.MinMaxScaler
 #### 标准化
 * sklearn特征化API:  scikit-learn.preprocessing.StandardScaler
-* 概念：
 
